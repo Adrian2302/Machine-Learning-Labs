@@ -1,9 +1,0 @@
-Hola profe, 
-no estaba muy seguro de cómo es que se implementaba luego de crear el modelo una manera para probarlo, pero que siempre probara un modelo ya creado, en vez de crear uno nuevo al correr el programa, por lo que hice 2 programas .py.
-
-Primero: El programa que se llama "create_model.py" ese va a crear un modelo .pt usando las imágenes y siguiendo la red neuronal convolucional (ya hay un modelo que generé usando este programa, se llama "tensor.pt").
-
-Segundo: El programa que se llama "evaluate_model.py" va a agarrar el archivo .pt llamado "tensor.pt" y va a calcular el accuracy de este y luego crea la matriz de confusión.
-
-Lo siento por tanto enredo.
- 
