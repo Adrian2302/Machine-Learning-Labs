@@ -8,7 +8,7 @@ Este repositorio contiene los laboratorios realizados como parte del curso de Ma
    - Desarrollé un Análisis de los Componentes Principales para reducir la dimensionalidad.
 
 3. **Laboratorio 3: Pruebas de Regresión Lineal**
-   - Realicé diversas pruebas y experimentos utilizando algoritmos de regresión lineal.
+   - Realicé diversas pruebas y experimentos utilizando regresión lineal.
 
 5. **Laboratorio 5: Entrenamiento de Red Neuronal Convolucional (CNN)**
    - Implementé y entrené una red neuronal convolucional.
